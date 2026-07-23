@@ -52,4 +52,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: FRANK_NEXUS_AI_v1.0.0
-          path: android/app/build/outputs/apk/debug/app-debug.apkandroid-build.yml
+          path: android/app/build/outputs/apk/debug/app-debug.apk
